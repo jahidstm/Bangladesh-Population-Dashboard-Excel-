@@ -6,7 +6,7 @@ A comprehensive Excel dashboard analyzing the population trends, density, and di
 
 Here is a high-level overview of the final interactive dashboard.
 
-![Bangladesh Population Dashboard Preview](Screenshot (231).png)
+![Bangladesh Population Dashboard Preview](dashboard-preview.png)
 
 ---
 
