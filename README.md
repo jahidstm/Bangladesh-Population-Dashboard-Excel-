@@ -1,5 +1,10 @@
 # 📊 Bangladesh Population Dashboard (Excel Project)
 
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green?logo=microsoftexcel)
+![Data](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)
+![Status](https://img.shields.io/badge/Status-Complete-green)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 A comprehensive Excel dashboard analyzing the population trends, density, and distribution across various divisions and districts of Bangladesh using data from 1991 to 2022.
 
 ## 🚀 Dashboard Preview
